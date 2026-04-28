@@ -1,0 +1,10 @@
+# System Files
+.DS_Store
+
+# IDE/Text Editor Files
+.vscode/
+
+# Binary
+headphones
+
+
